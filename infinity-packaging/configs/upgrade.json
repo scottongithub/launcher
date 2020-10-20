@@ -1,0 +1,10 @@
+{
+  "infinity": {
+    "title": "Flashpoint Infinity - Linux",
+    "description": "Required files for Flashpoint. Adds support for Flash games.",
+    "verify_files":  [ "infinity_data/readme.txt" ],
+    "verify_sha256": [ "3c08690a9a76465eb2f3273c73be21b682c8a635931b06d63971ef1cbe001634" ],
+    "sources": [ "https://bluepload.unstable.life/selif/infinity-8-2-data.7z" ],
+    "sources_sha256": "fba0df64dd6cd3f3eb2f770d8c65b3b5aeec20bb8eba2dd6f1298d9eb66ff306"
+  }
+}

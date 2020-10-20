@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Flashpoint Infinity
+Exec=/usr/lib/flashpoint-infinity/flashpoint-launcher %U
+Terminal=false
+Type=Application
+Icon=flashpoint-launcher
+StartupWMClass=Flashpoint
+Comment=A desktop application used to browse, manage and play games from BlueMaxima’s Flashpoint
+Categories=Game;Emulator;
+Keywords=Game;Emulator;Arcade;

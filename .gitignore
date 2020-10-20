@@ -28,3 +28,12 @@ package-lock.json
 /.coveralls.yml
 /coverage
 /tests/result
+
+# Packaging - Debian
+debian/flashpoint-infinity
+debian/flashpoint-ultimate
+debian/flashpoint-core
+debian/.debhelper/
+
+# Packaging - workflow conflicts with upstream
+/.github/*

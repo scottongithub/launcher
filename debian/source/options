@@ -1,0 +1,3 @@
+tar-ignore = "node_modules"
+tar-ignore = "build"
+tar-ignore = "dist"

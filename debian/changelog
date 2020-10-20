@@ -1,0 +1,11 @@
+flashpoint-infinity (8.2-1) UNRELEASED; urgency=medium
+
+  * New upstream release 9.0.4
+
+ -- The Flashpoint Project <flashpoint@bluemaxima.org>  Wed, 14 Oct 2020 21:06:53 -0400
+
+flashpoint-infinity (8.2) UNRELEASED; urgency=medium
+
+  * Initial packaging
+
+ -- The Flashpoint Project <flashpoint@bluemaxima.org>  Wed, 14 Oct 2020 18:58:48 -0400

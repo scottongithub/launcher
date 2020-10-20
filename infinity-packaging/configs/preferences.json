@@ -1,0 +1,27 @@
+{
+  "browsePageGameScale": 0.087,
+  "browsePageShowExtreme": false,
+  "enableEditing": true,
+  "fallbackLanguage": "en",
+  "currentLanguage": "<auto>",
+  "browsePageLayout": 0,
+  "browsePageShowLeftSidebar": true,
+  "browsePageShowRightSidebar": true,
+  "browsePageLeftSidebarWidth": 320,
+  "browsePageRightSidebarWidth": 320,
+  "curatePageLeftSidebarWidth": 320,
+  "showDeveloperTab": false,
+  "currentTheme": "Metal\\theme.css",
+  "lastSelectedLibrary": "arcade",
+  "gamesOrderBy": "title",
+  "gamesOrder": "ASC",
+  "defaultLibrary": "arcade",
+  "mainWindow": {
+    "maximized": true
+  },
+  "saveImportedCurations": true,
+  "symlinkCurationContent": true,
+  "onDemandImages": true,
+  "showLogSource": {},
+  "excludedRandomLibraries": []
+}

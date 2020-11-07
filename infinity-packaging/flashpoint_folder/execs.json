@@ -1,0 +1,44 @@
+{
+  "execs": [
+    {
+      "win32": "FPSoftware\\Flash\\flashplayer_32_sa.exe",
+      "linux": "FPSoftware/Linux/Flash/flashplayer32SA"
+    },
+    {
+      "win32": "FPSoftware\\Flash\\flashplayer28_0r0_161_win_sa.exe",
+      "linux": "FPSoftware/Linux/Flash/flashplayer28SA"
+    },
+    {
+      "win32": "FPSoftware\\Flash\\flashplayer_277_win_sa.exe",
+      "linux": "FPSoftware/Linux/Flash/flashplayer27SA"
+    },
+    {
+      "win32": "FPSoftware\\Flash\\flashplayer27_0r0_187_win_sa.exe",
+      "linux": "FPSoftware/Linux/Flash/flashplayer27SA"
+    },
+    {
+      "win32": "FPSoftware\\Flash\\flashplayer19_0r0_245_sa.exe",
+      "linux": "FPSoftware/Linux/Flash/flashplayer27SA"
+    },
+    {
+      "win32": "FPSoftware\\Flash\\flashplayer14_0r0_176_win_sa_debug.exe",
+      "linux": "FPSoftware/Linux/Flash/flashplayer27SA"
+    },
+    {
+      "win32": "FPSoftware\\Flash\\flashplayer11_9r900_152_win_sa_debug.exe",
+      "linux": "FPSoftware/Linux/Flash/flashplayer27SA"
+    },
+    {
+      "win32": "FPSoftware\\Flash\\flashplayer_10_3r183_90_win_sa.exe",
+      "linux": "FPSoftware/Linux/Flash/flashplayer27SA"
+    },
+    {
+      "win32": "FPSoftware\\Flash\\flashplayer9r277_win_sa.exe",
+      "linux": "FPSoftware/Linux/Flash/flashplayer27SA"
+    },
+    {
+      "win32": "FPSoftware\\Basilisk-Portable\\Basilisk-Portable.exe",
+      "linux": "FPSoftware/Linux/Basilisk/basilisk"
+    }
+  ]
+}

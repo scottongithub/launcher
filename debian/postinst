@@ -40,6 +40,15 @@ chmod 4755 '/usr/lib/flashpoint-infinity/chrome-sandbox' || true
 update-mime-database /usr/share/mime || true
 update-desktop-database /usr/share/applications || true
 
+# preserves config.json and preferences.json in case this is an upgrade
+# live-config.json if it exists was made in preinst
+if [ -f /usr/lib/flashpoint-infinity/live-config.json ]; then
+  mv -f /usr/lib/flashpoint-infinity/live-config.json /usr/lib/flashpoint-infinity/config.json
+fi
+if [ -f /usr/lib/flashpoint-infinity/live-preferences.json ]; then
+  mv -f /usr/lib/flashpoint-infinity/live-preferences.json /usr/lib/flashpoint-infinity/preferences.json
+fi
+
 # These need to sit next to the launcher and be writable
 chmod 666 /usr/lib/flashpoint-infinity/config.json
 touch /usr/lib/flashpoint-infinity/preferences.json

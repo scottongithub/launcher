@@ -10,7 +10,7 @@
   "useCustomTitlebar": false,
   "startServer": true,
   "server": "PHP Router",
-  "disableExtremeGames": true,
+  "disableExtremeGames": false,
   "showBrokenGames": false,
   "backPortMin": 12001,
   "backPortMax": 12100,

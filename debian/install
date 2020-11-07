@@ -1,5 +1,5 @@
-dist/linux-unpacked/* /usr/lib/flashpoint-infinity
-infinity-packaging/configs/config.json /usr/lib/flashpoint-infinity
-infinity-packaging/configs/upgrade.json /usr/lib/flashpoint-infinity
+dist/linux-unpacked/* usr/lib/flashpoint-infinity
+infinity-packaging/configs/config.json usr/lib/flashpoint-infinity
+infinity-packaging/configs/upgrade.json usr/lib/flashpoint-infinity
 infinity-packaging/icons/* usr/share/icons/hicolor
 infinity-packaging/flashpoint-launcher.desktop usr/share/applications

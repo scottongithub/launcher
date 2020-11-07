@@ -20,5 +20,5 @@ Description: Infinity version of Flashpoint
  Flashpoint is a desktop application used to browse, manage and play games from
  BlueMaxima’s Flashpoint library.
  The Infinity version (this one) downloads a game's files on-demand rather than
- keep them all locally The Ultimate version (currently not packaged) has all
+ keep them all locally. The Ultimate version (currently not packaged) has all
  files locally and so will take up much more space.

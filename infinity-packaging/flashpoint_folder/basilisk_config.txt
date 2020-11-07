@@ -1,0 +1,35 @@
+All changes to the default Basilisk configuration are listed below.
+
+Changes to Basilisk-Portable.ini (lines starting with ; are commented out):
+ShowSplash=false
+;(multiple instances)
+;MOZ_NO_REMOTE=1
+
+Preferences set:
+When Basilisk starts show a blank page
+Play DRM content
+Send a signal that you don't want to be tracked
+Remember logins for sites - false
+Basilisk will use custom settings for history
+Remember search and form history - false
+Never check for updates
+Query OCSP responder servers to confirm the current validity of certificates - false
+
+about:config Switches Set:
+extensions.blocklist.enabled - false
+javascript.options.wasm - true
+network.captive-portal-service.enabled - false
+#latest version has network.stricttransportsecurity.enabled which I set to false
+network.stricttransportsecurity.preloadlist - false
+security.mixed_content.send_hsts_priming - false
+browser.newtabpage.directory.ping - blank
+browser.newtabpage.directory.source - blank
+extensions.systemAddon.update.url - blank
+media.gmp-manager.url - blank
+-- plugins.click_to_play - false (doesn't work yet!)
+
+UI Elements Hidden: Downloads button, Homepage button, Search box
+
+Other:
+FPSoftware\Basilisk-Portable\User\Basilisk\Profiles\Default\SiteSecurityServiceState.txt:
+Removed all text, changed to read-only (stops browser from forcing use of HTTPS)
